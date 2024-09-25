@@ -1,4 +1,5 @@
 {
+
     // Main editor settings
     "editor.folding": false,
     "editor.smoothScrolling": true,
@@ -7,7 +8,7 @@
     "editor.suggestSelection": "first",
     "editor.linkedEditing": true,
     "editor.quickSuggestionsDelay": 0,
-
+    
     // Theme settings
     "editor.bracketPairColorization.enabled": false,
     "editor.glyphMargin": false,
